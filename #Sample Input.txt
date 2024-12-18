@@ -1,0 +1,11 @@
+#Sample Input
+processes = [
+    ("chrome", 80),
+    ("nginx", 80),
+    ("apache", 443),
+    ("docker", 8080),
+    ("firefox", 80),
+    ("ssh", 22),
+    ("mysql", 3306),
+    ("postgres", 5432)
+]
